@@ -6,5 +6,5 @@ Trabalho proposto pela matéria de Engenharia de Software da Universidade Federa
 
 - [x] Fazer o Banco de Dados
 - [x] Fazer o cadastro de tarefas
-- [ ] Fazer listagem de tarefas
-- [ ] Fazer uma página HTML simples para fazer requisições à API
+- [x] Fazer listagem de tarefas
+- [x] Fazer uma página HTML simples para fazer requisições à API
